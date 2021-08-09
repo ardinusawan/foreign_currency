@@ -1,4 +1,5 @@
 # Foreign Currency
+https://travis-ci.com/ardinusawan/foreign_currency.svg?branch=master
 
 This back-end APIs are to be used by front-end engineers to develop an application that store and display foreign exchange rate for currencies on a daily basis.
 
