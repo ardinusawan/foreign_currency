@@ -1,9 +1,8 @@
-language: python
+language: go
 
 python:
-- '2.7'
+- '1.16'
 
 branches:
   only:
   - master
-
